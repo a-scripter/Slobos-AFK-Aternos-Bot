@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "@_uo3-bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "@_uo3-bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "_uo3.aternos.me",
+    "port": 37346,
+    "version": "26.3",
     "try-creative": false
   },
   "position": {
